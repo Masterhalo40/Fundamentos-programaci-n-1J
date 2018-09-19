@@ -1,0 +1,52 @@
+h2
+{
+    color: white;
+    background-color: teal;
+    border-radius: 3px 3px 0px 0px;
+    padding: 10px;
+}
+body
+{
+    background-color: rgba(177, 172, 172, 0.952);
+    text-align: center;
+  
+}
+.contacto
+{
+    margin: 0 auto;
+    background-color: rgb(247, 247, 247);
+    width: 70%
+    
+}
+.uno
+{
+    margin: 5px;
+    background-color: antiquewhite;
+    width: 400px;
+    border-radius: 20px 20px 20px 20px;
+
+}
+.dos
+{
+    margin: 5px;
+    background-color: antiquewhite;
+    width: 400px;
+    border-radius: 10px 10px 10px 10px;
+}
+.tres
+{
+    margin: 5px;
+    background-color: antiquewhite;
+    width: 400px;
+    border-radius: 10px 10px 10px 10px;
+}
+input
+{
+    position: relative;
+}
+.cuatro
+{
+    color: white;
+    background-color: teal;
+    padding: 10px;
+}
